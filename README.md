@@ -1,0 +1,2 @@
+# myFirstGIT
+git check
